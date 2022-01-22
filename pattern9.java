@@ -1,5 +1,11 @@
 package patterns;
 
+// *       *
+// **     **
+// ***   *** 
+// **** ****
+// *********
+
 import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Scanner;
 
