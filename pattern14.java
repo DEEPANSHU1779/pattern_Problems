@@ -2,6 +2,16 @@ package patterns;
 
 import java.util.Scanner;
 
+// 1
+// 2 * 2
+// 3 * 3 * 3
+// 4 * 4 * 4 * 4
+// 5 * 5 * 5 * 5 * 5
+// 4 * 4 * 4 * 4
+// 3 * 3 * 3
+// 2 * 2
+// 1
+
 public class pattern14 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
